@@ -148,6 +148,7 @@ star-interceptor/
 Designed and built by **Tomáš Cyprian** — Applied Informatics (Robotics & Control Systems).
 Open to engineering and design work.
 
-📧 cyptomtom@gmail.com
+📧 tomas.cyprian.sk@gmail.com
+
 
 *The project is open for hobbyists and enthusiasts to build on.*

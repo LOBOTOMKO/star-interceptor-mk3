@@ -99,7 +99,10 @@ The full mechanism was modelled in **Autodesk Fusion 360** and exported through 
 |:---:|:---:|
 | ![Technical drawing of the dome, fully dimensioned](docs/images/drawing-dome.jpg) | ![Technical drawing of the base with title block](docs/images/drawing-base.jpg) |
 
-> The printable STL meshes live in the earlier [Star-Interceptor](https://github.com/LOBOTOMKO/Star-Interceptor) repository (`3D/`), alongside other archived early-stage files.
+**3D models** — click through for GitHub's interactive rotate/zoom viewer:
+[Základňa (base)](cad/stl/Zakladna-v2.stl) · [Točňa (turntable)](cad/stl/Tocna-v2.stl) · [Námer 1](cad/stl/Namer1-v2.stl) · [Námer 2](cad/stl/Namer2-v2.stl)
+
+> More early-stage STL variants and other archived files live in the earlier [Star-Interceptor](https://github.com/LOBOTOMKO/Star-Interceptor) repository (`3D/`).
 
 ---
 

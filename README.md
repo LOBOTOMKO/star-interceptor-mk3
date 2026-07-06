@@ -35,7 +35,7 @@ observer location + time + target  →  celestial-position computation  →  azi
 The mount wasn't designed once and finished. It evolved through **diagnosed failures** — each version fixed a specific, observed problem in the one before. That loop of build → test → find the real fault → redesign is the core of the project.
 
 **Generation 1 — dual stepper, H-bridge drive.**
-Both axes driven by stepper motors through H-bridges.
+Both axes driven by stepper motors through H-bridges. Original firmware preserved in [`firmware/history/gen1-dual-stepper/`](firmware/history/gen1-dual-stepper/).
 *The failure:* with the drivers powered down, the telescope's own weight back-drove the motors and it slipped off target — along with vibration, jitter and audible noise.
 
 **Generation 2 — servo elevation (MG996R).**
@@ -98,6 +98,8 @@ The full mechanism was modelled in **Autodesk Fusion 360** and exported through 
 | Dome (Kupola) | Base (Základňa) |
 |:---:|:---:|
 | ![Technical drawing of the dome, fully dimensioned](docs/images/drawing-dome.jpg) | ![Technical drawing of the base with title block](docs/images/drawing-base.jpg) |
+
+> The printable STL meshes live in the earlier [Star-Interceptor](https://github.com/LOBOTOMKO/Star-Interceptor) repository (`3D/`), alongside other archived early-stage files.
 
 ---
 

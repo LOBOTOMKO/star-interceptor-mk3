@@ -45,7 +45,6 @@ Moving elevation to a metal-geared servo with position feedback fixed the back-d
 **Generation 3 — stepper + worm gear (in development).**
 The current direction: a worm-gear-driven stepper for elevation. A worm drive can't be back-driven, raises load capacity, and removes the jerk on pointing changes. This is the MK III.
 
-![3D-printed reduction gear and pinion — the drivetrain that steps each axis precisely](docs/images/drivetrain.jpg)
 
 ---
 
